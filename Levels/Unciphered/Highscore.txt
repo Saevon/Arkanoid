@@ -1,0 +1,20 @@
+Creator: SirJ
+999999999
+Evy.
+900000000
+Dim3000
+500000000
+Barrier Lvl1
+100000000
+Barrier Lvl2
+50000000
+Barrier Lvl3
+5000000
+Barrier Lvl4
+1000000
+Barrier Lvl5
+500000
+Barrier Lvl6
+100000
+Barrier Lvl7
+50000
